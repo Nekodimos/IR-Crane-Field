@@ -1,5 +1,5 @@
 # Information Retrieval (IR) System Portfolio: Cranfield Collection
-
+#### ⚠️ A Note on Remaining Homeworks (HW4 to HW8) Detail at the Bottom, Please Read!!
 This repository contains the implementation, evaluation, and comparative analysis of various Information Retrieval models using the **Cranfield Scientific Dataset** (1,400 abstracts, 225 queries). The project focused on transitioning legacy Python 2 frameworks into a modern Python 3.12 environment and benchmarking custom-built indexing against professional-grade tools like Elasticsearch.
 
 ### 👥 Team Members
@@ -52,8 +52,8 @@ In this phase, we replaced Elasticsearch with a custom-engineered Inverted Index
 
 ---
 
-## ⚠️ Note on Remaining Homeworks (HW4+)
-The original project repository provided by the instructor included placeholders or skeletal code for HW4 through HW7 (covering Link Analysis, PageRank, and HITS). 
+#### ⚠️ A Big Note on Remaining Homeworks (HW4 to HW8)
+The original project repository provided by the instructor included placeholders or skeletal code for HW4 through HW8 (covering Link Analysis, PageRank, and HITS). 
 
 **These assignments were not carried out because:**
 1.  They lacked associated **README.md** instruction files.
