@@ -4,7 +4,7 @@ This repository contains the implementation, evaluation, and comparative analysi
 
 ### 👥 Team Members
 | Name | Student ID |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | Nekodimos Million | [ID Number] |
 | Dawit Tekeba | [ID Number] |
 | Adonay Teferi | [ID Number] |
