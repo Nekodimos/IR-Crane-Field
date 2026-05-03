@@ -2,6 +2,21 @@
 
 This repository contains the implementation, evaluation, and comparative analysis of various Information Retrieval models using the **Cranfield Scientific Dataset** (1,400 abstracts, 225 queries). The project focused on transitioning legacy Python 2 frameworks into a modern Python 3.12 environment and benchmarking custom-built indexing against professional-grade tools like Elasticsearch.
 
+### 👥 Team Members
+| Name | Student ID |
+| :--- | :--- | :--- |
+| Nekodimos Million | [ID Number] |
+| Dawit Tekeba | [ID Number] |
+| Adonay Teferi | [ID Number] |
+| Abreham Mehari | [ID Number] |
+
+---
+
+### 📄 Project Documentation
+The **Root Directory** of this repository contains the comprehensive **Document Analysis (PDF)**. This report includes:
+*   In-depth comparison of all retrieval models.
+*   Linguistic analysis of the Cranfield Collection.
+*   
 ## 📂 Project Structure
 
 ### [HW1: Elasticsearch Baseline Retrieval](./HW1)
@@ -47,19 +62,4 @@ The original project repository provided by the instructor included placeholders
 
 Consequently, this portfolio serves as a finalized evaluation of text-based retrieval models (HW1 & HW2), which constitute the core of the Cranfield Collection research goals.
 
-### 👥 Team Members
-| Name | Student ID | Contribution |
-| :--- | :--- | :--- |
-| Nekodimos Million | [ID Number] |
-| Dawit Tekeba | [ID Number] |
-| Adonay Teferi | [ID Number] |
-| Abreham Mehari | [ID Number] |
-
 ---
-
-### 📄 Project Documentation
-The **Root Directory** of this repository contains the comprehensive **Document Analysis (PDF)**. This report includes:
-*   In-depth comparison of all retrieval models.
-*   Step-by-step execution logs from the Google Colab environment.
-*   Linguistic analysis of the Cranfield Collection.
-*   Detailed breakdown of the custom indexer architecture.
