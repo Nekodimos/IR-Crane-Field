@@ -20,7 +20,7 @@ The **Root Directory** of this repository contains the comprehensive **Document 
 ## 📂 Project Structure
 
 ### [HW1: Elasticsearch Baseline Retrieval](./HW1)
-**Location:** `/content/drive/MyDrive/ISR_Cran/HW1`  
+**Location:** `/HW1`  
 The objective of this phase was to establish a retrieval baseline using Elasticsearch.
 *   **`Evaluation_Reports/`**: Contains the full statistical output from the `trec_eval` utility for all models (MAP, P@10, Recall).
 *   **`Files/`**: Stores the raw output `.txt` result files formatted for TREC evaluation.
@@ -28,7 +28,7 @@ The objective of this phase was to establish a retrieval baseline using Elastics
 *   **`Manual_Comparison_Report.txt`**: A qualitative analysis of Case Studies (Query ID 1, 20, 50, 100, and 200) comparing how different models "think" when ranking the same query.
 
 ### [HW2: Custom Search Engine & Indexing](./HW2)
-**Location:** `/content/drive/MyDrive/ISR_Cran/HW2`  
+**Location:** `/HW2`  
 In this phase, we replaced Elasticsearch with a custom-engineered Inverted Index built from scratch.
 *   **`Files/`**: Contains the physical binary index (`invertedFile.txt`) and the catalog system designed for logarithmic-time access to term postings.
 *   **`Pickles/`**: Core metadata including the `termMap`, `docMap`, and `catalog` offsets used by the search engine.
